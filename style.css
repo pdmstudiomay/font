@@ -1,19 +1,19 @@
 @font-face {
-    font-family: '온글잎 금일귀_regular';
+    font-family: 'Geum Il-gwi_regular';
     src: url('https://raw.githubusercontent.com/pdmstudiomay/repo/main/font/온글잎 금일귀_bold.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
-    font-family: '온글잎 금일귀_light';
+    font-family: 'Geum Il-gwi_light';
     src: url('https://raw.githubusercontent.com/pdmstudiomay/repo/main/font/온글잎 금일귀_light.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
-    font-family: '온글잎 금일귀_bold';
+    font-family: 'Geum Il-gwi_bold';
     src: url('https://raw.githubusercontent.com/pdmstudiomay/repo/main/font/온글잎 금일귀_regular.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
